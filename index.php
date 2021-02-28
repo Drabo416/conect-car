@@ -13,7 +13,7 @@
 	</div>
 	<dir class="texte-intro">
 		<span >
-			Connect car est un projet réaliser par des étudiants de Licence 2 De L'Esatic(Ecole Supperieur Africaine Des TIC)
+			Connect car est un projet réalisé par des étudiants de Licence 2 de l'Esatic(Ecole Supperieur Africaine Des TIC)
 		</span>
 	</dir>
 	<dir class="texte-intro">
@@ -23,7 +23,7 @@
 	</dir>
 	<div class="texte-intro">
 		<span>
-		L'application est disponible sur le lien ci-dessous 
+		Télécharger l'application  sur le lien ci-dessous 
 	</span>
 	</div>
 	<div class="lien"><a href="Connect_car.apk">TELECHARGER</a></div>
